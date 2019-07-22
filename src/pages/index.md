@@ -3,10 +3,13 @@ title: Home
 sections:
   - component: HeroBlock
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      This site was created in less than 5 minutes through the magic of
+      [StackBit](https://www.stackbit.com) using
+      [Gatsby](https://www.gatsbyjs.com/), Exto theme, & [Netlify
+      CMS](https://www.netlifycms.org/). It is deployed on
+      [Netlify](https://www.netlify.com/).
     section_id: hero
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
+    title: Hi. I'm Ashley. I build things with code.
     type: heroblock
   - component: PortfolioBlock
     layout_style: tiles
