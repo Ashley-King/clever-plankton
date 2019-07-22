@@ -4,6 +4,7 @@
   "accent_color": "pink",
   "header": {
     "title": "Ashley King",
+    "logo_img": "/images/ashleyking.png",
     "has_nav": true
   },
   "footer": {
