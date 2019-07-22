@@ -8,13 +8,7 @@
   },
   "footer": {
     "content": "&copy; Ashley King | Web Developer. All rights reserved.",
-    "links": [
-      {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
-        "new_window": true
-      }
-    ],
+    "links": [],
     "has_social": false
   }
 }
